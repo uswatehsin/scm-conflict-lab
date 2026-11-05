@@ -1,4 +1,4 @@
-Project Title: Untitle
+Project Title: Student Portal
 Team Members: Uswa and Warda
 Course: SCM Lab
 Status: In Progress
